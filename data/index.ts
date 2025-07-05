@@ -73,7 +73,7 @@ export const projects = [
     id: 1,
     title: "Bookademia Student",
     des: "A user-friendly portal for students to browse, borrow, and manage books seamlessly. Bookademia Student offers real-time book availability, personalized borrowing history, and due date reminders—empowering students with a smarter and more accessible library experience.",
-    img: "/p1_1.png",
+    img: "https://raw.githubusercontent.com/NancyPatel11/My-Portfolio/refs/heads/main/public/p1_1.png",
     iconLists: ["/vite.png", "/react.svg", "/java.png", "/springboot.png", "/mongo.png", "/tailwind.png", "/figma.png"],
     link: "https://bookademia.onrender.com/",
   },
@@ -81,7 +81,7 @@ export const projects = [
     id: 12,
     title: "Bookademia Admin",
     des: "A powerful admin dashboard designed to simplify library management tasks. Bookademia Admin allows librarians to manage inventory, approve requests, monitor overdue returns, and send automated email alerts—enabling full control and visibility into library operations.",
-    img: "/p1_2.png",
+    img: "https://raw.githubusercontent.com/NancyPatel11/My-Portfolio/refs/heads/main/public/p1_2.png",
     iconLists: ["/vite.png", "/react.svg", "/java.png", "/springboot.png", "/mongo.png", "/tailwind.png", "/figma.png"],
     link: "https://bookademia.onrender.com/",
   },
@@ -89,7 +89,7 @@ export const projects = [
     id: 2,
     title: "LiveBox",
     des: "A market analysis platform built to simplify financial decision-making by providing real-time, sentiment-driven insights.",
-    img: "/p2.png",
+    img: "https://raw.githubusercontent.com/NancyPatel11/My-Portfolio/refs/heads/main/public/p2.png",
     iconLists: ["/python.png", "/ollama.png", "/react.svg", "/mongo.png", "/bootstrap.png"],
     link: "http://livebox.in/",
   },
@@ -97,7 +97,7 @@ export const projects = [
     id: 3,
     title: "Xpense Tracker",
     des: "A platform to revolutionize the way businesses manage and track employee expenses. This cutting-edge expense management platform offers a seamless and efficient solution for businesses of all sizes to effortlessly monitor and control employee expenditures.",
-    img: "/p3.png",
+    img: "https://raw.githubusercontent.com/NancyPatel11/My-Portfolio/refs/heads/main/public/p3.png",
     iconLists: ["/react.svg", "/express.png", "/node.png", "/mongo.png", "/bootstrap.png", "/figma.png"],
     link: "https://xpensetracker.vercel.app",
   },
@@ -107,12 +107,12 @@ export const companies = [
   {
     id: 1,
     name: "Goldman Sachs",
-    img: "/goldmanlogo.png"
+    img: "https://raw.githubusercontent.com/NancyPatel11/My-Portfolio/refs/heads/main/public/goldmanlogo.png"
   },
   {
     id: 2,
     name: "STP Web Hosting",
-    img: "/stpweblogo.png"
+    img: "https://raw.githubusercontent.com/NancyPatel11/My-Portfolio/refs/heads/main/public/stpweblogo.png"
   }
 ];
 
@@ -128,7 +128,7 @@ export const workExperience = [
     id: 2,
     title: "Jr. Software Developer",
     desc: "Designed and developed web app for stock market analysis using Python, MongoDB and Gen AI.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2", 
     thumbnail: "/exp2.svg",
   }
 ];
